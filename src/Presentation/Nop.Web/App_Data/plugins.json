@@ -6,6 +6,14 @@
     {
       "SystemName": "Widgets.NivoSlider",
       "Version": "1.49"
+    },
+    {
+      "SystemName": "Shipping.FixedByWeightByTotal",
+      "Version": "2.36"
+    },
+    {
+      "SystemName": "Payments.CashOnDelivery",
+      "Version": "1.46"
     }
   ],
   "PluginNamesToUninstall": [],
